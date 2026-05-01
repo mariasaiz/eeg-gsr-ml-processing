@@ -50,7 +50,7 @@ Install the required Python libraries:
 
 ```bash
 pip install numpy pandas matplotlib mne neurokit2 scikit-learn
----
+```
 
 ## Reproducibility
 
