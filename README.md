@@ -51,3 +51,28 @@ Install the required Python libraries:
 ```bash
 pip install numpy pandas matplotlib mne neurokit2 scikit-learn
 ---
+
+## Reproducibility
+
+This repository supports the reproducibility of the preprocessing and feature extraction pipeline described in the associated publication.
+
+## Contribution to Applied Psychology
+
+This repository illustrates the potential of combining:
+
+- Multichannel physiological signal recording  
+- Machine Learning techniques (supervised and unsupervised)  
+
+for the analysis of cognitive and emotional processes.
+
+These approaches support:
+
+- Pattern detection  
+- Identification of inter-individual differences  
+- Exploration of latent physiological profiles  
+
+and are particularly relevant for applications in:
+
+- Educational psychology  
+- Clinical psychology  
+- Personalised intervention design
